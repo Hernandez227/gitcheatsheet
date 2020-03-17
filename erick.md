@@ -1,3 +1,0 @@
-Hello 
-erick
-sadas
