@@ -15,3 +15,18 @@ git tag------ Create, list, delete or verify a tag object signed with GPG
 git pull----- Fetch from and integrate with another repository or a local branch
 git push----- Update remote refs along with associated objects 
 git remote--- Show you all the names of every remote that you have 
+echo--------- You need to write this for print whatever you want
+.gitignore--- Is for archives that you not want to upload or save in your branch
+git log------ List the confirmations made over in your repository
+git log--stat If you want to see a stadistics of every confirmation of your edited archive
+-- pretty--- Modify the output format
+the main options of "git log"
+-p --------- Shows the patch entered in each confirmation
+--name-status It shows the list of affected files, also indicating if they were added, modified or deleted.
+--relative-date Show the date in relative format
+--graph----- Displays an ASCII chart with branch and junction history
+
+git fetch -- If you want to obtain your remote projects
+git remote rename-- This is for rename the file that you uploaded
+git show---- You can see the tag information along with the commit
+
