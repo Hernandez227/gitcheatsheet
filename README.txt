@@ -29,4 +29,8 @@ the main options of "git log"
 git fetch -- If you want to obtain your remote projects
 git remote rename-- This is for rename the file that you uploaded
 git show---- You can see the tag information along with the commit
+git diff--staged This command compares your prepared changes with the last confirmed snapshot.
+git diff--cached To see what you have prepared so far
+git difftoolyou will be able to see the changes with programs of this type like Araxis, emerge, vimdiff and more.
+git commit -a You will have Git automatically prepare all tracked files before committing them, saving you from the git add step
 
